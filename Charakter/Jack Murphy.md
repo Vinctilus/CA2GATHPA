@@ -1,0 +1,7 @@
+- Age: 25 years old.
+- Residence: Citizen of Dublin, living in a small two-floor house (bedroom and kitchen/living room).
+- Occupation: Modest worker who moved to Dublin to support his farming family in the countryside.
+- Appearance: Average height, lean stature, always wears a flat cap, no beard.
+- Background: Born and raised on his parents' farm, started working there as a child.
+- Family Struggles: His family had a small farm, leading to challenges in making ends meet.
+- Character Traits: Developed a humble character, appreciates limited resources.

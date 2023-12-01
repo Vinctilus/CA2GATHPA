@@ -1,0 +1,309 @@
+{
+  "main": {
+    "id": "e0093ef6fef5ff31",
+    "type": "split",
+    "children": [
+      {
+        "id": "caa25b9e9cb75635",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72662af98ee9af4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home/Bedroom.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b459e0605932e62c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Map.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "1f459656afa9b42c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vehicle/Vehicle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f754861f80d7def",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game start.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd5bf6504c22d0e9",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Conektions.canvas",
+                "viewState": {
+                  "x": -722.3652921370053,
+                  "y": 577.8347398829899,
+                  "zoom": -1.3591927599189955
+                }
+              }
+            }
+          },
+          {
+            "id": "337129e9f00a2628",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quest Items/Appels.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e61fc333d9134d69",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Ideas/Pictures of colage/Pasted Image 20231127154453_023.png"
+              }
+            }
+          },
+          {
+            "id": "994a55d3cf0b1d3c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Ideas/Pictures of colage/Pasted Image 20231127161655_016.png"
+              }
+            }
+          },
+          {
+            "id": "adbb145ea675bfcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Charakter/Jack Murphy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65f916b077e997fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Charakter/Jack Murphy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "57ceb830df9ceae4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3483d4e9f9ee105",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eaba2dae3c9b0b6a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f55b48ad6d7a7cf8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#bridge",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f0cd1074d8a117bf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4e0bfe32fa01b147",
+    "type": "split",
+    "children": [
+      {
+        "id": "160426aca46b6e4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6479fd772af63414",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Charakter/Jack Murphy.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "887a7a4f4c476a2a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Charakter/Jack Murphy.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "27084dd168248c88",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6612823422555456",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Charakter/Jack Murphy.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "excalidraw-cn:Create New Excalidraw File": false
+    }
+  },
+  "active": "65f916b077e997fa",
+  "lastOpenFiles": [
+    "Charakter/Antagonist.md",
+    "Charakter/Jack Murphy.md",
+    "Untitled",
+    "Charakter/Famelie.md",
+    "Ideas/moudeboard.excalidraw.md",
+    "Ideas/Pictures of colage/Pasted Image 20231127161655_016.png",
+    "Ideas/Pictures of colage/Pasted Image 20231127154453_023.png",
+    "Map.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-01 12.47.46.excalidraw.md",
+    "Excalidraw",
+    "Vehicle/Vehicle.md",
+    "Conektions.canvas",
+    "Untitled.canvas",
+    "excalidraw 23-12-01 12.44.03.ex",
+    "Home/Bedroom.md",
+    "Ideas/Untitled.md",
+    "Bridge",
+    "Vehicle",
+    "Vehicle/Diver.md",
+    "Game end.md",
+    "Game start.md",
+    "Home/Kitchen.md",
+    "Street/Street.md",
+    "Bloking/Blocking.md",
+    "Bridge/Bridge.md",
+    "Quest Items/Appels.md",
+    "Home/Newspaper.md",
+    "Quest Items/Amulet.md",
+    "Quest Items/Broken watch.md",
+    "Charakter/injured person.md",
+    "Home/Home.md",
+    "Quest Items/Gun.md",
+    "Bloking/Leaflet.md",
+    "Quest Items/Plank.md",
+    "Bloking",
+    "Game.md",
+    "Quest Items",
+    "Street",
+    "Charakter",
+    "Home",
+    "Ideas/Pictures of colage/Pasted Image 20231127155517_996.png",
+    "Ideas/Pictures of colage/Pasted Image 20231127155417_103.png",
+    "Ideas/Pictures of colage/Pasted Image 20231127155403_012.png",
+    "Ideas/Pictures of colage/Pasted Image 20231127155402_990.png",
+    "Ideas/Pictures of colage/Pasted Image 20231127155332_654.png",
+    "Ideas/Pictures of colage/Pasted Image 20231127155247_653.png",
+    "Ideas/Pictures of colage/Pasted Image 20231127155232_652.png",
+    "Ideas/Pictures of colage/Pasted Image 20231127155217_650.png"
+  ]
+}

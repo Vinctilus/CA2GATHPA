@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"bb33b0cde0760821","type":"file","file":"Charakter/Jack Murphy.md","x":-242,"y":-173,"width":400,"height":400},
+		{"id":"6ed249af9a73795e","type":"file","file":"Home/Bedroom.md","x":800,"y":-760,"width":400,"height":400},
+		{"id":"2d2a03aabf83ba86","type":"file","file":"Home/Kitchen.md","x":800,"y":-280,"width":400,"height":400},
+		{"id":"0f80cfc126393f68","type":"file","file":"Charakter/Famelie.md","x":-960,"y":-640,"width":400,"height":400},
+		{"id":"2cca0c76dfd77af9","type":"text","text":"Gaol is to get out of dublin \nan get back to the village where his famile lives","x":-167,"y":-370,"width":250,"height":130},
+		{"id":"7fe2e1d29a55b1ad","type":"file","file":"Home/Home.md","x":360,"y":-505,"width":267,"height":400},
+		{"id":"a48f18e75d521c53","type":"file","file":"Map.excalidraw.md","x":-985,"y":400,"width":1887,"height":800}
+	],
+	"edges":[
+		{"id":"c23a55d814463f83","fromNode":"bb33b0cde0760821","fromSide":"right","toNode":"7fe2e1d29a55b1ad","toSide":"left","label":"Lebt"},
+		{"id":"d94908d4cc87e47c","fromNode":"7fe2e1d29a55b1ad","fromSide":"right","toNode":"6ed249af9a73795e","toSide":"left"},
+		{"id":"4161c386aab07e96","fromNode":"7fe2e1d29a55b1ad","fromSide":"right","toNode":"2d2a03aabf83ba86","toSide":"left"},
+		{"id":"0ad0037de5d2d40a","fromNode":"bb33b0cde0760821","fromSide":"left","toNode":"0f80cfc126393f68","toSide":"right"},
+		{"id":"a3a3965003664ff6","fromNode":"bb33b0cde0760821","fromSide":"top","toNode":"2cca0c76dfd77af9","toSide":"bottom"},
+		{"id":"7152729e327d791b","fromNode":"bb33b0cde0760821","fromSide":"bottom","toNode":"a48f18e75d521c53","toSide":"top"}
+	]
+}
